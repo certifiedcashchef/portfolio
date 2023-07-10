@@ -14,7 +14,7 @@ export default function Contact() {
         platforms
       </p>
       <div id="social" className="grid grid-cols-3 md:grid-cols-6 gap-4 mt-8">
-        <a href="https://drive.google.com/file/d/1q4LVgfybKtBtULBJaAI8EdHYWG_psCgd/">
+        <a href="https://drive.google.com/file/d/1Bk34QDoMRkF8FFVeXRD6EX-hGIPIu2yK/">
           <div className="bg-[#8a51fb]/20 flex justify-center items-center w-12 h-12 rounded-[10px]">
             <svg
               fill="#8a51fb"
